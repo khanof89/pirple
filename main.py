@@ -21,6 +21,7 @@ producers = "Bob Clearmountain"
 should print all the variable that we have set above
 '''
 
+'''
 print("Title: " + title)
 print("Release date: " + release_date)
 print("Format: "+ format)
@@ -30,4 +31,4 @@ print("Length: " + str(length))
 print("Label: " + label)
 print("Song writers: " + song_writers)
 print("Producers: " + producers)
-
+'''
