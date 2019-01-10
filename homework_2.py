@@ -1,15 +1,16 @@
-from main import genre,song_writers, recorded
+from main import genre, song_writers, recorded
 
 
 def Artist():
-	return song_writers
+    return song_writers
 
 
 def Genre():
-	return genre
+    return genre
+
 
 def Year():
-	return str(recorded)
+    return str(recorded)
 
 
 year = Year()
